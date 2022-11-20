@@ -46,3 +46,11 @@
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rushikeshsuryawanshi&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rushikeshsuryawanshi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshsuryawanshi&theme=tokyonight" />
+</p>
