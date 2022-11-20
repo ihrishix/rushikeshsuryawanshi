@@ -11,7 +11,7 @@
         <td align="left" width="300">
             <p align="center">
                     <a href="mailto:suryawanshirushikesh90@gmail.com">
-                      <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-instagram-512.png" />
+                      <img width="30%" src="408057_contact_email_envelope_letter_mail_icon.png" />
                     </a>
             </p>
                   </td>
@@ -34,7 +34,7 @@
       <td align="left" width="300">
 <p align="center">
         <a href="https://www.instagram.com/rushikeshsuryawanshii/">
-          <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
+          <img width="30%"src="3225191_app_instagram_logo_media_popular_icon.png" />
         </a>
 </p>
       </td>
