@@ -1,4 +1,4 @@
-<a href="http://ihrishi.tech" target="_blank"><img src="banner.png" /></a>
+<a href="http://ihrishi.tech" target="_blank"><img src="newbanner.png" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
